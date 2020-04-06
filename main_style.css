@@ -1,0 +1,631 @@
+		/* constant css*/
+/* contact details row  */
+.contact_us_background_color{
+	background-color: #f8f8f8;
+	padding: 20px 0px 20px 0px;
+}
+.contact_us_list{
+	list-style-type: none;
+}
+.contac_us_list_link{
+	color: #3d3d3d;
+}
+.current{
+	text-decoration: none;
+	color: #4cada6;
+}
+/* boxes with blue and dark background */
+
+.boxes_line_background_color{
+	background-color: #f8f8f8;
+}
+.bottom_dark_text_block{
+	background-color: #333333;
+}
+.bottom_dark_text{
+	font-family: Montserrat;
+	font-size: 26px;
+	color: white;
+	margin-bottom: 0px;
+}
+.bottom_light_text_block{
+	background-color: #00c8c8;	
+}
+.icon_color{
+	color: white;
+	font-size: 30px;
+}
+
+/* footer setting */
+.footer_background{
+	background-color: #333333;
+	padding: 15px 0px 15px 0px;
+}
+.footer_text{
+	color: #818181;
+	font-family: Montserrat;
+	font-size: 14px;
+}
+/* top line  */
+.top_line{
+	background-color: #333333;
+}
+.no_padding{
+	padding: 5px 0px 5px 0px;
+}
+.document_font_family{
+	font-family: Montserrat;
+	font-size: 14px;
+	color: #767676;
+}
+.currency_select_menu{
+	background-color: #333333;
+	border: none;
+}
+.shoping{
+	background-color: #00c9c6;
+	color: white;
+}
+.padding_for_shopin_label{
+	margin-bottom: 0px !important;
+}
+.shoping_cart_text_color{
+	font-family: Montserrat;
+	font-size: 14px;
+	color: white;
+}
+.shoping_select{
+	border: none;
+}
+.sign_hover:hover{
+	text-decoration: none;
+	color: #4cada6;
+}
+
+/* navbar classes */
+.without_dropdown_nav_items{
+	color: rgb(0,0,0,.5);
+}
+.without_dropdown_nav_items:hover{
+	text-decoration: none;
+	color: rgb(0,0,0,.7);
+}
+.remove_padding{
+	padding: 0px;
+}
+.position_setting{
+	padding: 20px 0px;
+}
+.brand_name_text{
+	font-family: Montserrat;
+	font-size: 17px;
+	font-weight: bold;
+	margin: 0px 0px 0px 10px;
+}
+.navbar_button_margin_setting{
+	margin-left: 10px;
+}
+.main_nav_menu_items{
+	padding: 5px 15px 5px 5px !important;
+	font-size: 14px;
+	font-family: Montserrat;
+}
+.dropdown_width{
+	width: 350px;
+	background-color: #f8f8f8;
+}
+.drop_down_heading{
+	font-family: Montserrat;
+	font-weight: bold;
+	font-size: 15px;
+	padding-left: 15px;
+}
+.drop_down_lists{
+	list-style-type: none;
+	padding: 0px 0px 0px 15px;
+}
+.dropdown_list_item_link{
+	color: black;
+	font-family: Montserrat;
+	font-size: 14px;
+}
+.sale_box{
+	width: 275px;
+	height: 150px;
+	background-color: #333333;
+	margin: 20px auto 20px auto;
+}
+.sales_text{
+	padding-top: 35px;
+    padding-bottom: 35px;
+    margin-bottom: 0px;
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+.setting_dropdown_position{
+	position: relative;
+}
+.search_input_field{
+	background-color: #f8f8f8;
+	border-right: 0px solid #f8f8f8;
+	font-family: Montserrat;
+	width: 160px !important;
+}
+.search_button_setting{
+	padding: 6px 5px;
+	background-color: #f8f8f8;
+	border-top: 1px solid #d0d5db;
+	border-right: 1px solid #d0d5db;
+	border-bottom: 1px solid #d0d5db;
+	left: -27px;
+	position: relative;
+}
+
+/* Nav items without dropdown */
+.nav_items_without_dropdow{
+	padding: 5px 15px 5px 5px;
+	font-size: 14px;
+	font-family: Montserrat;
+	color: rgb(0,0,0,0.5);
+}
+
+/* lookbook  */
+.mytextclass{
+	top: 0;
+	left: 0;
+}
+.lookbook_height{
+	height: 350px;
+}
+.first_lookbook_heading{
+	font-family: Montserrat;
+	font-weight: bold;
+	margin-bottom: 0px;
+}
+.second_lookbook_heading{
+	font-family: Montserrat;
+	margin-bottom: 0px;
+	font-size: 24px;
+}
+.lookbook_paragraph{
+	font-family: Montserrat;
+	font-size: 16px;
+}
+.view_now_button{
+	background-color: #f8f8f8;
+	border: 1px solid black;
+	font-family: Montserrat;
+	padding: 5px 10px;
+}
+.view_now_button:hover{
+	background-color: #00c8c8;
+	border: 1px solid #00c8c8;
+	color: white;
+}
+
+
+/* background */
+.background_image{
+	height: 450px;
+	position: static;
+}
+.color_setting{
+	position: absolute;
+	top: 0;
+	width: 100%;
+	height: 450px;
+	background: rgb(3,5,8,.5);
+}
+.text_top_margin{
+	margin-top: 175px;
+	color: white;
+	font-size: 36px;
+}
+.second_background_heading{
+	font-size: 24px;
+}
+.second_background_heading_color{
+	color: #08c9aa;
+	font-size: 24px;
+}
+@media screen and (max-width: 992px){
+	.navbar_margin{
+		margin-left: 20px;
+	}
+	@media screen and (max-width: 768px){
+		.border_register{
+			border: 0px solid white;
+		}
+	}
+	@media screen and (max-width: 576px){
+		.color_setting{
+			height: 300px;
+		}
+		.backgroud_image{
+			height: 300px;
+		}
+		.background_image{
+			height: 300px;
+		}
+		.text_top_margin{
+			margin-top: 100px;
+			font-size: 24px;
+		}
+		.second_background_heading{
+			font-size: 18px;
+		}
+		.second_background_heading_color{
+			font-size: 18px;
+			color: #08c9aa;
+		}
+	}
+}
+body{
+	overflow-x: hidden;
+	font-family: Montesrrat;
+}
+
+
+
+
+
+
+
+/*-------------------------------------------------------4-Lookbook--------------------------------------------------*/
+	/* 4-Lookbook.html style */
+/*list above pictures*/
+.list_above_picture_items{    
+	border: none;
+}
+.list_item_links{
+	font-family: Montserrat;
+	color: #6b6b6b;
+	font-size: 14px;
+}
+.list_item_links:hover{
+	text-decoration: none;
+	color: #60a3ac;
+}
+
+.image_height_div{
+	height: 300px;
+	position: relative;
+}
+.all_image_div_setting{
+	border: 10px solid white;
+	background-color: #f8f8f8;
+}
+.lb_second_text_div{
+	height: 350px;
+	width: 100%;
+	position: relative;
+}
+.lb_last_picture_textSetting{
+	height: 450px;
+	width: 100%;
+	position: relative;
+}
+.image_height_div_with_text{
+	height: 300px;
+}
+.picture_corner_text{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+.button_background_lookbook{
+	background-color: #dad9d4;
+	padding: 10px 15px;
+	border: 1px solid gray;
+}
+.button_background_lookbook:hover{
+	background-color: #00c8c8;
+	border: 1px solid #00c8c8;
+	color: white;
+}
+.remove_paddding{
+	padding: 0px 0px;
+}
+.win_new_look{
+	font-size: 80px;
+	font-weight: bold;
+	color: #00c8c8;
+}
+.win_new_look_second{
+	font-size: 52px;
+	font-weight: bold;
+	color: #00c8c8;
+}
+.win_new_look_second{
+	line-height: 40px !important;
+}
+
+/*------------------------------ 6-Sign Up ------------------------------------------------------------------*/
+.signup_border_register{
+	border-left: 1px solid #f0f0f0;
+}
+.signup_content_padding{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.signup_button_class{
+	padding: 15px 15px;
+	border: 1px solid #767676;
+	background-color: white;
+	color: ##515151;
+}
+.signup_button_class:hover{
+	color: white;
+	background-color: #4cada6;
+	border-color: #4cada6;
+}
+/*--------------------------------- 5-Product-View -------------------------------------------------------*/
+.productview_text_color{
+	color: #8e8e8e;
+}
+.productview_checked{
+	color: orange;
+}
+.productview_share_icons{
+	color: inherit;
+}
+.productview_price_tag{
+	font-size: 24px;
+	color: #9e9e9e;
+}
+.productview_avail_code_tag{
+	margin-bottom: 5px;
+	font-size: 14px;
+}
+	/* slider */
+.productview_slider_buttons{
+	height: 40px;
+	width: 40px;
+}
+.productview_slider_buttons:hover{
+	background-color: #00c9d3;
+}
+.productview_slider_height{
+	height: 700px;
+	background-color: #f8f8f8;
+}
+.productview_slider_icon_color{
+	color: #424041;
+	font-size: 40px;
+}
+.productview_address_icon_setting{
+	background-color: #737373;
+	padding: 10px 10px;
+	border-radius: 50%;
+	margin: 0px 10px 0px 10px;
+}
+.productview_address_icon_setting:hover{
+	background-color: #00c8c8;
+}
+.productview_address_icon_colors{
+	color: white;
+}
+.productview_local_store_view_details{
+	padding: 10px 15px;
+	border: 1px solid gray;
+}
+.productview_local_store_view_details:hover{
+	background-color: #333333;
+	border-color: #333333;
+	color: white;
+}
+	/* navpills and description */
+.product_view_navpills_backgroundColor{
+	background-color: #f8f8f8;
+}
+.prodcut_view_nav_links{
+	color: #484848;
+}
+.prodcut_view_nav_links:hover{
+	color: white;
+}
+.product_view_nav_item_behavior:hover{
+	background-color: #484848;
+}
+
+/*-------------------------------------- 3-Local Stores --------------------------------------------*/
+.local_store_div_padding{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.localstore_address_icon_colors{
+	color: white;
+}
+.localstore_address_icon_setting{
+	background-color: #737373;
+	padding: 10px 10px;
+	border-radius: 50%;
+	margin: 0px 10px 0px 10px;
+}
+.localstore_address_icon_setting:hover{
+	background-color: #00c8c8;
+}
+.local_store_view_details{
+	padding: 15px 15px;
+	border: 1px solid gray;
+}
+.local_store_view_details:hover{
+	background-color: #00c8c8;
+	border-color: #00c8c8;
+}
+.localstore_address_below_icons{
+	padding: 20px 0px;
+}
+.localstore_maps_background_color{
+	background-color: #f8f8f8;
+}
+.localstore_address_information_map_padding{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+/*----------------------------------------------- 2-The Brand ------------------------------------------*/
+
+
+/*------------------------------------------------ 1-Home page ------------------------------------------*/
+
+.hp_slider_background_color{
+	background-color: #f8f8f8;
+}
+.hp_background_slider_image{
+	height: 500px;
+}
+.ave_text_position{
+	position: absolute !important;
+	top: 0px;
+	left: 0px;
+}
+
+.logo_text{
+	font-size: 300px;
+	/*font-family: Montserrat;*/
+	font-weight: bold;
+	padding: 0px 50px;
+	color: #575153;
+}
+ /*3 query*/
+.collection_button{
+	position: absolute;
+	bottom: 50px;
+	right: 200px;
+	background-color: #f8f8f8;
+	border: 1px solid black;
+	padding: 15px;
+	font-family: Montserrat;
+}
+/*(query)*/
+.horizontal_break{
+	height: 1px;
+	background-color: #efefef;
+}
+/* pictures items  */
+.small_pic_height{
+	height: 200px;
+}
+.big_pic_height{
+	height: 350px;
+	
+}
+.pic_background_color{
+	background-color: #f8f8f8;
+}
+.pic_border{
+	border: 20px solid white;
+	/*border-right: 20px solid white;*/
+}
+.picture_heading_text{
+	font-family: Montesrrat;
+	font-size: 12px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	color: #6a6a6a;
+}
+.picture_simple_text{
+	font-family: Montesrrat;
+	font-size: 13px;
+	margin-bottom: 5px;
+}
+.picture_bottom_icons{
+	margin-bottom: 5px;
+}
+.picture_icons_links{
+	padding: 5px;
+	background-color: #757575;
+	border-radius: 50%;
+	color: white;
+}
+.picture_icons_links:hover{
+	background-color: #05c4cc;
+	color: white;
+}
+.picture_below_content{
+	display: none;
+	position: absolute;
+	top: 200px;
+	background-color: white;
+}
+.unique_picture:hover .picture_below_content{
+	display: block;
+}
+.item_price_tag{
+	position: absolute;
+	top: 5px;
+	left: 10px;
+	color: #969696;
+	font-family: Montserrat;
+}
+.sub_picture{
+	position: absolute;
+	top: 10;
+	right: 0px;
+	height: 75px;
+}
+.sub_picture_second{
+	position: absolute;
+	top: 95px;
+	right: 0;
+	height: 75px;
+}
+@media only screen and (max-width: 1140px){
+	.ave_text_position{
+		left: -75px;
+	}
+	@media only screen and (max-width: 992px){
+		.navbar_button_margin_setting{
+			margin-left: 10px;
+		}
+		.ave_text_position{
+			top: 75px;
+			left: 0px;
+		}
+		.logo_text{
+			font-size: 250px;
+			padding: 0px 20px;
+		}
+	}
+	@media only screen and (max-width: 767px){
+		.ave_text_position{
+			left: -50px;
+			top: 150px;
+		}
+		.logo_text{
+			font-size: 150px;
+			padding: 0px 30px;
+		}
+		.collection_button{
+			right: 50px !important;
+		}
+		.picture_below_content{
+			position: absolute;
+			top: 200px;
+			margin-bottom: -10px;
+			background-color: white;
+			display: none;
+			z-index: 1;
+		}
+		.unique_picture:hover .picture_below_content{
+			display: block;
+		}
+	}
+	@media only screen and (max-width: 575px){
+		.ave_text_position{
+			left: 20px;
+			top: 150px;
+		}
+	}
+	@media only screen and (max-width: 540px){
+		.ave_text_position{
+			left: 50px;
+			top: 200px;
+		}
+		.logo_text{
+			font-size: 100px;
+			padding: 0px 20px;
+		}
+	}
+}
